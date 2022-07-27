@@ -1,0 +1,17 @@
+  
+//   custom variables
+$clr-primary:#b46c14;
+
+.flex{
+    display: flex;
+}
+.grid{
+    display: grid;
+    
+}
+.container{
+    width: calc(100% - 2rem);
+    max-width: 1200px;
+    margin: 0 auto;
+   padding-block: 2rem;
+}
