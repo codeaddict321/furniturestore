@@ -7,7 +7,7 @@ export default function About({setCartItems,cartItems,setShowCart,showCart,setNa
   <section className="about">
     <div className="container flex about-section">
     <div className="about-img">
-        <img src="src/images/about-img.svg" alt="" />
+        <img src="images/about-img.svg" alt="" />
        </div>
        <div className="about-info">
     <h2 className="about-info-title">About Us</h2>

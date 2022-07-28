@@ -7,7 +7,7 @@ export default function ContactUs({isNavOpen , setNavOpen,setCartItems,cartItems
          <section className="contact">
   <div className="container flex contact-section">
   <div className="contact-img">
-        <img src="src/images/contact-img.svg" alt="" />
+        <img src="images/contact-img.svg" alt="" />
     </div>
     <div className="contact-info">
         <h2 className="contact-info-title">
